@@ -1,7 +1,6 @@
-#+TITLE Quevik's Personal Emacs Configuration
-#+AUTHOR Quevik
-#+DATE 2019-03-04
-#+UPDATE 
+#+TITLE: Quevik's Personal Emacs Configuration
+#+AUTHOR:Quevik
+#+DATE: 2019-03-04 
 
 * Features
 ** Seperate config files for various functionality
